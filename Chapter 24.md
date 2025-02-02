@@ -63,5 +63,3 @@ E_z=\frac{\sigma}{2\epsilon_0}[1-\frac{1}{\sqrt{z^2+R^2}}]
 \end{align}$$
 ##### Potential Energy of a two-particle system
 #### $U=\frac{1}{4\pi\epsilon_0}\frac{q_1q_2}{r}$
-
-asdf
