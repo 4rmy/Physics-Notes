@@ -25,11 +25,11 @@
 - The electric field at a point near an infinite line of charge (or charged rod) with uniform linear charge density _𝜆_ is perpendicular to the line and has magnitude
 	$E=\frac{\lambda}{2\pi\epsilon_0r}$    (line of charge)
 	where _r_ is the perpendicular distance from the line to the point.
+- $\lambda=Q/L$
 
 ## 24-5 Applying Gauss' Law: Planar Symmetry
 - The electric field due to an infinite nonconducting sheet with uniform surface charge density _σ_ is perpendicular to the plane of the sheet and has magnitude
     $E=\frac{\sigma}{2\epsilon_0}$    (nonconducting sheet of charge)
-    
 - The external electric field just outside the surface of an isolated charged conductor with surface charge density _σ_ is perpendicular to the surface and has magnitude
     $E=\frac{\sigma}{\epsilon_0}$    (external, charged conductor)
     Inside the conductor, the electric field is zero.
@@ -41,4 +41,5 @@
 - Inside the shell, the field due to the shell is zero.
 - Inside a sphere with a uniform volume charge density, the field is radial and has the magnitude
     $E=\frac{1}{4\pi\epsilon_0}\frac{q}{R^3}r$    (inside sphere of charge)
-    where _q_ is the total charge, _R_ is the sphere’s radius, and _r_ is the radial distance from the center of the sphere to the point of measurement.
+    where _q_ is the total charge, $R$ is the sphere’s radius, and $r$ is the radial distance from the center of the sphere to the point of measurement.
+
