@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Constants.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -181,11 +181,11 @@
   },
   "active": "f6482b7ce3967e19",
   "lastOpenFiles": [
-    "Chapter 24.md",
-    "Chapter 22.md",
-    "Chapter 21.md",
     "Chapter 23.md",
+    "Chapter 22.md",
+    "Chapter 24.md",
     "Constants.md",
+    "Chapter 21.md",
     "Welcome.md"
   ]
 }
