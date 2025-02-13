@@ -30,4 +30,9 @@ $$
 
 ## 25-4 Energy Stored in an Electric Field
 - The electric potential energy $U$ of a charged capacitor $$ U = \frac{q^2}{2C} $$ and $$ U = \frac{1}{2}CV^2 $$ is equal to the work required to charge the capacitor. This energy can be associated with the capacitor's electric field $\vec{E}$
+- The potential energy of a charged capacitor may be viewed as being stored in the electric field between its plates.
+- Every electric field, in a capacitor or from any other source, has an associated stored energy. in vacuum, the __energy density__ $u$ (potential energy per unit volume) in a field of magnitude $E$ is $$ u=\frac{1}{2}\epsilon_0E^2$$
+## 25-5 Capacitor with a Dielectric
+- If the space between the plates of a capacitor is completely filled with a __dielectric material__, the capacitance $C$ in vacuum (or, effectively, in air) is multiplied by the material's __dielectric constant__ $\kappa$, which is a number greater than 1.
+- In a region completely filled by a dielectric material of dielectric constants $\kappa$, all electrostatic equations containing the permittivity constants $\epsilon_0$ are to be modified by replacing $\epsilon_0$ with $\kappa\epsilon_0$
 - 
