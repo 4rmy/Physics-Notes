@@ -8,3 +8,26 @@
 	- A cylindrical capacitor (two long coaxial cylinders) of length $L$ and radii $a$ and $b$ has capacitance $$C=2\pi\epsilon_0\frac{L}{\ln(\frac{b}{a})}$$
 	- A spherical capacitor with concentric spherical plates of radii $a$ and $b$ has capacitance $$C=4\pi\epsilon_0\frac{ab}{b-a}$$
 	- An isolated sphere of radius $R$ has capacitance $$C=4\pi\epsilon_0R$$
+## 25-3 Capacitors in Parallel and in Series
+- The equivalent capacitances $C_{eq}$ of combinations of individual capacitors connected in parallel and in series can be found from $$C_{eq}=\sum_{j=1}^nC_j \tag{$n$ capacitors in parallel}$$
+	and
+	$$
+	\frac{1}{C_{eq}}=\sum_{j=1}^n\frac{1}{C_j} \tag{$n$ capacitors in series}
+	$$
+- For parallel capacitors in with the same charge and voltage, we can "replace" the capacitors with a single capacitor equivalent to the 3 capacitors, to simplify calculations.
+
+$$\begin{align}
+q_1=C_1V\\q_3=C_2V\\q_3=C_3V\\\\
+q = q_1 + q_2 + q_3\\
+q = C_1V + C_2V + C_3V\\
+q = V(C_1 + C_2 + C_3)\\
+\frac{q}{V} = C_1 + C_2 + C_3\\
+\frac{q}{V} = C_{eq} = \sum_{j=1}^nC_j
+\end{align}
+$$
+
+- series have the same charge $q$, parallels have the same $V$
+
+## 25-4 Energy Stored in an Electric Field
+- The electric potential energy $U$ of a charged capacitor $$ U = \frac{q^2}{2C} $$ and $$ U = \frac{1}{2}CV^2 $$ is equal to the work required to charge the capacitor. This energy can be associated with the capacitor's electric field $\vec{E}$
+- 

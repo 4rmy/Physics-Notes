@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "beca53de4eb9c4ff",
+        "id": "57b2cf4f1ed632c4",
         "type": "tabs",
         "children": [
           {
-            "id": "7dde0b7ea67389a9",
+            "id": "997d2bb893744810",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Chapter 25.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "602d82f42bc858be",
@@ -179,13 +180,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7dde0b7ea67389a9",
+  "active": "997d2bb893744810",
   "lastOpenFiles": [
-    "Constants.md",
-    "Chapter 25.md",
     "Chapter 24.md",
-    "Chapter 22.md",
     "Chapter 23.md",
+    "Chapter 25.md",
+    "Constants.md",
+    "Chapter 22.md",
     "Chapter 21.md",
     "Welcome.md"
   ]
