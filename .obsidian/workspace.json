@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Chapter 25.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
@@ -180,14 +180,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "13689e93251cab50",
+  "active": "997d2bb893744810",
   "lastOpenFiles": [
     "Chapter 24.md",
-    "Chapter 25.md",
     "Chapter 23.md",
-    "Constants.md",
     "Chapter 22.md",
     "Chapter 21.md",
+    "Chapter 25.md",
+    "Constants.md",
     "Welcome.md"
   ]
 }

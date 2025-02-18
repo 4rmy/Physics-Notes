@@ -35,4 +35,7 @@ $$
 ## 25-5 Capacitor with a Dielectric
 - If the space between the plates of a capacitor is completely filled with a __dielectric material__, the capacitance $C$ in vacuum (or, effectively, in air) is multiplied by the material's __dielectric constant__ $\kappa$, which is a number greater than 1.
 - In a region completely filled by a dielectric material of dielectric constants $\kappa$, all electrostatic equations containing the permittivity constants $\epsilon_0$ are to be modified by replacing $\epsilon_0$ with $\kappa\epsilon_0$
-- 
+- When a dielectric material is placed in an external electric field, it develops an internal electric field that is oriented opposite the external field, thus reducing the magnitude of the electric field inside the material
+- When a dielectric material is placed in a capacitor with a fixed amount of charge on the surface the net electric field between the plates is decreased
+
+## 25-6
