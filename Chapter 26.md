@@ -25,3 +25,6 @@ $$q=\int_0^tidt$$
 - A conducting material obeys Ohm's law when the resistivity of the material is independent of the magnitude and direction of the applied electric field.
 - The assumption that the conduction electrons in a metal are free to move like the molecules in a gas leads to an expression for the resistivity of a metal: $$\rho=\frac{m}{e^2n\tau}$$ Here $n$ is the number of free electrons per unit volume and $\tau$ is the mean time between the collisions of an electron with the atoms of the metal.
 - Metals obey Ohm's law because the mean free time, $\tau$, is approximately independent of the magnitude $E$ of any electric field applied to a metal.
+
+## 26-5 Power, Semiconductors, Superconductors
+- 
